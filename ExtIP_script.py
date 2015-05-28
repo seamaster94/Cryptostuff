@@ -22,7 +22,7 @@ session.ehlo()
 session.starttls()
 session.ehlo()
 
-session.login('sascha.tribelhorn@gmail.com', 'rakete123')
+session.login('sascha.tribelhorn@gmail.com', '123')
 
 sender = "sascha.tribelhorn@gmail.com"
 recipient = "sascha.tribelhorn@gmail.com"
